@@ -30,19 +30,6 @@ const BlogPostForm = (args: BlogPostFormArgs) => {
         value={content}
         onChangeText={text => setContent(text)}
         style={styles.input}
-        
-
-
-
-
-
-
-
-
-
-
-
-
       />
       <Button
         title="Save Blog Post"
